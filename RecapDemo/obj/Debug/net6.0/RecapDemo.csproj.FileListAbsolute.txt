@@ -1,0 +1,15 @@
+C:\ZLenovo\Asoftware\ConsoleApp1\RecapDemo\bin\Debug\net6.0\RecapDemo.exe
+C:\ZLenovo\Asoftware\ConsoleApp1\RecapDemo\bin\Debug\net6.0\RecapDemo.deps.json
+C:\ZLenovo\Asoftware\ConsoleApp1\RecapDemo\bin\Debug\net6.0\RecapDemo.runtimeconfig.json
+C:\ZLenovo\Asoftware\ConsoleApp1\RecapDemo\bin\Debug\net6.0\RecapDemo.dll
+C:\ZLenovo\Asoftware\ConsoleApp1\RecapDemo\bin\Debug\net6.0\RecapDemo.pdb
+C:\ZLenovo\Asoftware\ConsoleApp1\RecapDemo\obj\Debug\net6.0\RecapDemo.csproj.AssemblyReference.cache
+C:\ZLenovo\Asoftware\ConsoleApp1\RecapDemo\obj\Debug\net6.0\RecapDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ZLenovo\Asoftware\ConsoleApp1\RecapDemo\obj\Debug\net6.0\RecapDemo.AssemblyInfoInputs.cache
+C:\ZLenovo\Asoftware\ConsoleApp1\RecapDemo\obj\Debug\net6.0\RecapDemo.AssemblyInfo.cs
+C:\ZLenovo\Asoftware\ConsoleApp1\RecapDemo\obj\Debug\net6.0\RecapDemo.csproj.CoreCompileInputs.cache
+C:\ZLenovo\Asoftware\ConsoleApp1\RecapDemo\obj\Debug\net6.0\RecapDemo.dll
+C:\ZLenovo\Asoftware\ConsoleApp1\RecapDemo\obj\Debug\net6.0\refint\RecapDemo.dll
+C:\ZLenovo\Asoftware\ConsoleApp1\RecapDemo\obj\Debug\net6.0\RecapDemo.pdb
+C:\ZLenovo\Asoftware\ConsoleApp1\RecapDemo\obj\Debug\net6.0\RecapDemo.genruntimeconfig.cache
+C:\ZLenovo\Asoftware\ConsoleApp1\RecapDemo\obj\Debug\net6.0\ref\RecapDemo.dll

@@ -1,0 +1,15 @@
+C:\ZLenovo\Asoftware\ConsoleApp1\ConstructorInjection\bin\Debug\net7.0\ConstructorInjection.exe
+C:\ZLenovo\Asoftware\ConsoleApp1\ConstructorInjection\bin\Debug\net7.0\ConstructorInjection.deps.json
+C:\ZLenovo\Asoftware\ConsoleApp1\ConstructorInjection\bin\Debug\net7.0\ConstructorInjection.runtimeconfig.json
+C:\ZLenovo\Asoftware\ConsoleApp1\ConstructorInjection\bin\Debug\net7.0\ConstructorInjection.dll
+C:\ZLenovo\Asoftware\ConsoleApp1\ConstructorInjection\bin\Debug\net7.0\ConstructorInjection.pdb
+C:\ZLenovo\Asoftware\ConsoleApp1\ConstructorInjection\obj\Debug\net7.0\ConstructorInjection.csproj.AssemblyReference.cache
+C:\ZLenovo\Asoftware\ConsoleApp1\ConstructorInjection\obj\Debug\net7.0\ConstructorInjection.GeneratedMSBuildEditorConfig.editorconfig
+C:\ZLenovo\Asoftware\ConsoleApp1\ConstructorInjection\obj\Debug\net7.0\ConstructorInjection.AssemblyInfoInputs.cache
+C:\ZLenovo\Asoftware\ConsoleApp1\ConstructorInjection\obj\Debug\net7.0\ConstructorInjection.AssemblyInfo.cs
+C:\ZLenovo\Asoftware\ConsoleApp1\ConstructorInjection\obj\Debug\net7.0\ConstructorInjection.csproj.CoreCompileInputs.cache
+C:\ZLenovo\Asoftware\ConsoleApp1\ConstructorInjection\obj\Debug\net7.0\ConstructorInjection.dll
+C:\ZLenovo\Asoftware\ConsoleApp1\ConstructorInjection\obj\Debug\net7.0\refint\ConstructorInjection.dll
+C:\ZLenovo\Asoftware\ConsoleApp1\ConstructorInjection\obj\Debug\net7.0\ConstructorInjection.pdb
+C:\ZLenovo\Asoftware\ConsoleApp1\ConstructorInjection\obj\Debug\net7.0\ConstructorInjection.genruntimeconfig.cache
+C:\ZLenovo\Asoftware\ConsoleApp1\ConstructorInjection\obj\Debug\net7.0\ref\ConstructorInjection.dll
