@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "emi3hjGddaplSuDhGXYrvJSLRNzRHkeJHLR1leVNXFRwGe5qJQhDkaL8ce0p0RT7RtqBurqyiX3QN8KRRnIwQQ==",
+  "dgSpecHash": "NvE8JYsh47gQM4qAMJp2iB+FAvvLojn3GVaZisWh/Appa1GJf0A2omwtqRRge3lUpjoDTfCvtZ+G5hffmqYhkA==",
   "success": true,
-  "projectFilePath": "C:\\ZLenovo\\Asoftware\\ConsoleApp1\\ConstructorInjection\\ConstructorInjection.csproj",
+  "projectFilePath": "C:\\ZLenovo\\Asoftware\\ConsoleApp1\\EntityFrameworkProject\\EntityFrameworkProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\faruk\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\faruk\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

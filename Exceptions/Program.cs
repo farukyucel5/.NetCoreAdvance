@@ -5,25 +5,25 @@
         static void Main(string[] args)
         {
             List<string> list = new List<string>() { "Faruk", "Furkan", "Merve", "Hasan", "Harun" };
-            try
-            {
-                Find(list, "Fırat");
-            }
-            catch (RecordNotFoundException exception)
-            {
-                Console.WriteLine(exception.Message);
-            }
+            //try
+            //{
+            //    Find(list, "Fırat");
+            //}
+            //catch (RecordNotFoundException exception)
+            //{
+            //    Console.WriteLine(exception.Message);
+            //}
 
-            try
-            {
-                Find(list, "Fırat");
-            }
-            catch (Exception exception)
-            {
-                Console.WriteLine(exception.Message);
-            }
+            //try
+            //{
+            //    Find(list, "Fırat");
+            //}
+            //catch (Exception exception)
+            //{
+            //    Console.WriteLine(exception.Message);
+            //}
 
-            HandleException(() => Find(list,"Fırat"));
+            HandleException(() => Find(list,"Fırat"));//exception delegation
         }
 
         private static void HandleException(Action value)
