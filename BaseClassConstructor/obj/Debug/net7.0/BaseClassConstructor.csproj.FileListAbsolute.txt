@@ -1,0 +1,15 @@
+C:\ZLenovo\Asoftware\ConsoleApp1\BaseClassConstructor\bin\Debug\net7.0\BaseClassConstructor.exe
+C:\ZLenovo\Asoftware\ConsoleApp1\BaseClassConstructor\bin\Debug\net7.0\BaseClassConstructor.deps.json
+C:\ZLenovo\Asoftware\ConsoleApp1\BaseClassConstructor\bin\Debug\net7.0\BaseClassConstructor.runtimeconfig.json
+C:\ZLenovo\Asoftware\ConsoleApp1\BaseClassConstructor\bin\Debug\net7.0\BaseClassConstructor.dll
+C:\ZLenovo\Asoftware\ConsoleApp1\BaseClassConstructor\bin\Debug\net7.0\BaseClassConstructor.pdb
+C:\ZLenovo\Asoftware\ConsoleApp1\BaseClassConstructor\obj\Debug\net7.0\BaseClassConstructor.csproj.AssemblyReference.cache
+C:\ZLenovo\Asoftware\ConsoleApp1\BaseClassConstructor\obj\Debug\net7.0\BaseClassConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\ZLenovo\Asoftware\ConsoleApp1\BaseClassConstructor\obj\Debug\net7.0\BaseClassConstructor.AssemblyInfoInputs.cache
+C:\ZLenovo\Asoftware\ConsoleApp1\BaseClassConstructor\obj\Debug\net7.0\BaseClassConstructor.AssemblyInfo.cs
+C:\ZLenovo\Asoftware\ConsoleApp1\BaseClassConstructor\obj\Debug\net7.0\BaseClassConstructor.csproj.CoreCompileInputs.cache
+C:\ZLenovo\Asoftware\ConsoleApp1\BaseClassConstructor\obj\Debug\net7.0\BaseClassConstructor.dll
+C:\ZLenovo\Asoftware\ConsoleApp1\BaseClassConstructor\obj\Debug\net7.0\refint\BaseClassConstructor.dll
+C:\ZLenovo\Asoftware\ConsoleApp1\BaseClassConstructor\obj\Debug\net7.0\BaseClassConstructor.pdb
+C:\ZLenovo\Asoftware\ConsoleApp1\BaseClassConstructor\obj\Debug\net7.0\BaseClassConstructor.genruntimeconfig.cache
+C:\ZLenovo\Asoftware\ConsoleApp1\BaseClassConstructor\obj\Debug\net7.0\ref\BaseClassConstructor.dll
