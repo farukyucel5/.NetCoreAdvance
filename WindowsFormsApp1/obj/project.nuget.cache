@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fBGjLz19cCg2PQU65LsTW+DVp9H5lS8p0cdLif7TqwKtPC4h88iH/q2no3PBKn2KGUxjqiTAq3LSPQncUw78mA==",
+  "success": true,
+  "projectFilePath": "C:\\ZLenovo\\Asoftware\\ConsoleApp1\\WindowsFormsApp1\\WindowsFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\faruk\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512"
+  ],
+  "logs": []
+}
