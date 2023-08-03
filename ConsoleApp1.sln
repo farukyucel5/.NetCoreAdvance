@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BaseClassConstructor", "Bas
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exceptions", "Exceptions\Exceptions.csproj", "{8EB0F01E-0093-4B97-ABF3-CA45916776EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameworkIntro", "EntityFrameworkIntro\EntityFrameworkIntro.csproj", "{76F0523B-D0A2-4008-A9C9-68A587F61A24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EntityFrameworkIntro", "EntityFrameworkIntro\EntityFrameworkIntro.csproj", "{76F0523B-D0A2-4008-A9C9-68A587F61A24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecFlowDatabaseTesting", "SpecFlowDatabaseTesting\SpecFlowDatabaseTesting.csproj", "{547CB90F-7126-406B-99AF-08D0CF22EB51}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{76F0523B-D0A2-4008-A9C9-68A587F61A24}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76F0523B-D0A2-4008-A9C9-68A587F61A24}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76F0523B-D0A2-4008-A9C9-68A587F61A24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{547CB90F-7126-406B-99AF-08D0CF22EB51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{547CB90F-7126-406B-99AF-08D0CF22EB51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{547CB90F-7126-406B-99AF-08D0CF22EB51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{547CB90F-7126-406B-99AF-08D0CF22EB51}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
