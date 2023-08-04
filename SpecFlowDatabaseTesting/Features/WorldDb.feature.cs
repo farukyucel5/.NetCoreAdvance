@@ -75,14 +75,14 @@ namespace SpecFlowDatabaseTesting.Features
         
         [NUnit.Framework.TestAttribute()]
         [NUnit.Framework.DescriptionAttribute("Verify that cities can be retrieved properly")]
-        [NUnit.Framework.CategoryAttribute("mytag")]
+        [NUnit.Framework.CategoryAttribute("smoke")]
         [NUnit.Framework.TestCaseAttribute("Antalya", null)]
         [NUnit.Framework.TestCaseAttribute("Erzurum", null)]
         [NUnit.Framework.TestCaseAttribute("Ankara", null)]
         public virtual void VerifyThatCitiesCanBeRetrievedProperly(string city, string[] exampleTags)
         {
             string[] @__tags = new string[] {
-                    "mytag"};
+                    "smoke"};
             if ((exampleTags != null))
             {
                 @__tags = System.Linq.Enumerable.ToArray(System.Linq.Enumerable.Concat(@__tags, exampleTags));
@@ -124,12 +124,19 @@ this.ScenarioInitialize(scenarioInfo);
         [NUnit.Framework.TestAttribute()]
         [NUnit.Framework.DescriptionAttribute("Verify whether data can be retrieved from the \'city\' table by applying a filterin" +
             "g condition.")]
+        [NUnit.Framework.CategoryAttribute("regression")]
         [NUnit.Framework.TestCaseAttribute("An", null)]
         [NUnit.Framework.TestCaseAttribute("Er", null)]
         [NUnit.Framework.TestCaseAttribute("Bo", null)]
         public virtual void VerifyWhetherDataCanBeRetrievedFromTheCityTableByApplyingAFilteringCondition_(string key, string[] exampleTags)
         {
-            string[] tagsOfScenario = exampleTags;
+            string[] @__tags = new string[] {
+                    "regression"};
+            if ((exampleTags != null))
+            {
+                @__tags = System.Linq.Enumerable.ToArray(System.Linq.Enumerable.Concat(@__tags, exampleTags));
+            }
+            string[] tagsOfScenario = @__tags;
             System.Collections.Specialized.OrderedDictionary argumentsOfScenario = new System.Collections.Specialized.OrderedDictionary();
             argumentsOfScenario.Add("key", key);
             TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Verify whether data can be retrieved from the \'city\' table by applying a filterin" +
