@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace SpecFlowDatabaseTesting.Utils
 {
-    internal class CitiesDal
+    internal class CitiesDal:ICittiesDal
     {
         private List<string> cityName = new();
         public  List<City>GetAll()
@@ -40,6 +40,21 @@ namespace SpecFlowDatabaseTesting.Utils
             cityName.ForEach(name => Console.WriteLine(name.ToString()));
             cityName.ForEach(cityName => Assert.True(cityName.ToLower().Contains(key.ToLower())));
 
+        }
+
+        public void Add(City entity)
+        {
+            
+        }
+
+        public void Delete(City entity)
+        {
+            
+        }
+
+        public void Update(City entity)
+        {
+            
         }
     }
 }
