@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace SpecFlowDatabaseTesting.Utils
 {
-    internal class CitiesDal:IWorldDatabase
+    internal class CitiesDal
     {
         private List<string> cityName = new();
         public  List<City>GetAll()
@@ -24,6 +24,22 @@ namespace SpecFlowDatabaseTesting.Utils
             cityList.ForEach(city => cityName.Add(city.CityName));
             cityName.ForEach(name => Console.WriteLine(name.ToString()));
             Assert.True(cityName.Contains(city));
+        }
+
+        public List<City> GetTheFilteredData(string key)
+        {
+            using WorldContext worldContext = new();
+            return worldContext.Cities.Where(p => p.CityName.Contains(key)).ToList();
+            
+        }
+
+        public void VerifyThatTheItemsFilteredAccurately(List<City> cityList,string key)
+        {
+           
+            cityList.ForEach(city => cityName.Add(city.CityName));
+            cityName.ForEach(name => Console.WriteLine(name.ToString()));
+            cityName.ForEach(cityName => Assert.True(cityName.ToLower().Contains(key.ToLower())));
+
         }
     }
 }

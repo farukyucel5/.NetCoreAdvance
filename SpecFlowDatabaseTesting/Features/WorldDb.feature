@@ -9,4 +9,13 @@ Scenario Outline:  Verify that cities can be retrieved properly
 	| Erzurum |
 	| Ankara  |
 
-	
+
+Scenario Template: Verify whether data can be retrieved from the 'city' table by applying a filtering condition.
+    Given fetch the list of data filtered by "<key>" from the city table
+	And verify whether the retrieved data filtered by "<key>" is accurate
+	Examples: 
+	| key  |
+	| An   |
+	| Er   |
+	| Bo   |
+
