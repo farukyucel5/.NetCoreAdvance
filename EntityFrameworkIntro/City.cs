@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 
 namespace EntityFrameworkIntro;
-
 public partial class City
 {
     public int CityId { get; set; }

@@ -9,6 +9,7 @@ namespace EntityFrameworkIntro
 {
     internal class CitiesDal
     {
+     
         public static List<City> GetAllCities()
         {
             using WorldContext context = new();
@@ -19,6 +20,7 @@ namespace EntityFrameworkIntro
         {
             using WorldContext context = new();
             context.Cities.Add(city);
+            
             context.SaveChanges();
         }
 
